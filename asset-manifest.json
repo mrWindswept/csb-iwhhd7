@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mrwindswept.github.io/csb-iwhhd7/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mrwindswept.github.io/csb-iwhhd7/static/js/main.722092c3.chunk.js",
+    "main.js.map": "https://mrwindswept.github.io/csb-iwhhd7/static/js/main.722092c3.chunk.js.map",
+    "runtime-main.js": "https://mrwindswept.github.io/csb-iwhhd7/static/js/runtime-main.9dccad22.js",
+    "runtime-main.js.map": "https://mrwindswept.github.io/csb-iwhhd7/static/js/runtime-main.9dccad22.js.map",
+    "static/js/2.d6aad987.chunk.js": "https://mrwindswept.github.io/csb-iwhhd7/static/js/2.d6aad987.chunk.js",
+    "static/js/2.d6aad987.chunk.js.map": "https://mrwindswept.github.io/csb-iwhhd7/static/js/2.d6aad987.chunk.js.map",
+    "index.html": "https://mrwindswept.github.io/csb-iwhhd7/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mrwindswept.github.io/csb-iwhhd7/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d6aad987.chunk.js.LICENSE.txt": "https://mrwindswept.github.io/csb-iwhhd7/static/js/2.d6aad987.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dccad22.js",
+    "static/js/2.d6aad987.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.722092c3.chunk.js"
+  ]
+}
